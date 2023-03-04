@@ -14,11 +14,4 @@
 
 # Quote - Poetry
 
-<style>
-.motto {
-  border: 1px solid white;
-  border-radius: 10px;
-}
-</style>
-
 <img class="motto" src="motto.jpeg" alt="Motto" height="300" />
