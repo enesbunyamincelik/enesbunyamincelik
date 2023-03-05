@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on Python and Web Development. <br>📚 I'm currently learning Python, Javascript and web development.<br>⭐ I’m a star that wants to shine for humanity.
+💻 I'm currently working on Python and Web Development. <br>📚 I'm currently learning Python, Javascript and web development.<br>⭐ I’m a star trying to shine for humanity.
 
 
 ## 🌐 Socials:
