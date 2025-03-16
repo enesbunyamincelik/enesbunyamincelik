@@ -1,5 +1,5 @@
 # About Me:
-💻 He is a software developer with over a year of extensive experience in virtual reality (VR) and mixed reality (MR) development. Possessing a strategic mindset, he excels in tackling challenges with a solution-oriented approach. With a diverse portfolio of interactive, educational, and immersive applications, he showcases his proficiency across various platforms, including Microsoft HoloLens 2 and VR headsets. His expertise encompasses game development, simulation training, and mechanical tool visualization within the VR/MR domain. Driven by a passion for innovation, he aims to utilize his skills to spearhead groundbreaking initiatives.
+💻 
 
 
 ## 🌐 Socials:
